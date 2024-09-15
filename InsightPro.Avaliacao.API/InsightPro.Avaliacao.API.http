@@ -1,0 +1,6 @@
+@InsightPro.Avaliacao.API_HostAddress = http://localhost:5057
+
+GET {{InsightPro.Avaliacao.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
